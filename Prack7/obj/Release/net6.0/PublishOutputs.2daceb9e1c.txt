@@ -1,0 +1,7 @@
+C:\Users\zaxsc\source\repos\Prack7\Prack7\obj\Release\net6.0\PubTmp\Out\Prack7.exe
+C:\Users\zaxsc\source\repos\Prack7\Prack7\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\zaxsc\source\repos\Prack7\Prack7\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\zaxsc\source\repos\Prack7\Prack7\obj\Release\net6.0\PubTmp\Out\Prack7.dll
+C:\Users\zaxsc\source\repos\Prack7\Prack7\obj\Release\net6.0\PubTmp\Out\Prack7.deps.json
+C:\Users\zaxsc\source\repos\Prack7\Prack7\obj\Release\net6.0\PubTmp\Out\Prack7.runtimeconfig.json
+C:\Users\zaxsc\source\repos\Prack7\Prack7\obj\Release\net6.0\PubTmp\Out\Prack7.pdb
